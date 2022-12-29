@@ -1,5 +1,5 @@
 - Hi, I’m @miyauzawa. 
-Japanese living in Germany, translator, web developer, designer, book worm, animal lover, and excellent cook (I wish)👩‍🍳.
+Japanese living in Germany, translator, web developer, designer, book worm, animal lover, and excellent cook (hopefully)👩‍🍳.
 
 
 <!---
