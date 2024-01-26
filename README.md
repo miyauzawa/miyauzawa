@@ -1,5 +1,5 @@
-- Hi, I’m @miyauzawa. 
-Japanese living in Germany, translator, web developer, designer, book worm, animal lover, and excellent cook (hopefully)👩‍🍳.
+<h1>Hello Kon-nichiwa Moin moin, I'm Miya.</h1>
+<h2>a Web Developer.</h2>
 
 
 <!---
