@@ -1,5 +1,6 @@
 <h1>Hello Kon-nichiwa Moin moin, I'm Miya.</h1>
-<h2>a Web Developer.</h2>
+<p>a Web Developer.</p>
+
 
 
 <!---
